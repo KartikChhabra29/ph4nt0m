@@ -1,4 +1,5 @@
-<img width="923" height="576" alt="PH4NT0M Demo" src="https://github.com/user-attachments/assets/c389a64c-884f-4151-b872-9aa47c7d9e1c" />
+<img src="https://raw.githubusercontent.com/KartikChhabra29/ph4nt0m/main/Screenshot%202026-05-19%20173451.png" width="900">
+
 
 # PH4NT0M — JavaScript Recon & Secret Intelligence Framework
 
