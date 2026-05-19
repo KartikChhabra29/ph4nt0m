@@ -1,0 +1,16 @@
+aiohttp
+rich
+requests
+urllib3
+beautifulsoup4
+esprima
+jsbeautifier
+colorama
+pyyaml
+pytest
+pytest-asyncio
+bandit
+ruff
+black
+mypy
+safety
