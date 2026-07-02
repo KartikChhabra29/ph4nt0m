@@ -169,18 +169,6 @@ Nuxt
 [ENTROPY] https://target.com/app.js dGhpc2lzYXNlY3JldGtleQ==
 ```
 
----
-
-# Docker Usage
-
-```bash
-docker build -t ph4nt0m .
-
-cat js_urls.txt | docker run -i ph4nt0m
-```
-
----
-
 # GitHub Actions
 
 PH4NT0M includes:
